@@ -1,3 +1,76 @@
 .margin  {
   margin: 20px;
-  }/* ADD YOUR STYLES HERE */
+  }
+.jaden {
+  position: relative;
+  top: -40px;
+  left: 0px;
+}
+.laura {
+  position: relative;
+  top: -2px;
+  left: 45px;
+}
+.daddy {
+  position: relative;
+  top: -164px;
+  left: 372px;
+}
+
+.rojo {
+  position: relative;
+  top: -198px;
+  left: 472px;
+}
+.what {
+  position: relative;
+  top: -101px;
+  left: 242px;
+}
+.child {
+  display: inline-block;
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+
+.button1 {
+  display: inline-block;
+font-size: 25px;
+  padding-top: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  height: 50px;
+	width: 250px;
+  background-color: lightpink;
+  float: left;
+  color: white
+}
+
+.button2 {
+  display: inline-block;
+font-size: 15px;
+padding-top: 15px;
+text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+  height: 30px;
+	width: 140px;
+  background-color: lightpink;
+  float: left;
+  color: white
+}
+
+.button3 {
+  display: inline-block;
+ font-size: 10px;
+ padding-top: 10px;
+ text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  height: 20px;
+	width: 130px;
+  background-color: lightpink;
+  float: left;
+  color: white
+}
